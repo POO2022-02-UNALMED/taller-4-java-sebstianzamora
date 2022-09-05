@@ -43,7 +43,7 @@ public class Persona {
         return cedula;
     }
 
-    String getNombre() {
+    String getnombre() {
         return nombre;
     }
 
