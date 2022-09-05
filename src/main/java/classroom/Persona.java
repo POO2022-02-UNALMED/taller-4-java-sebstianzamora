@@ -39,12 +39,12 @@ public class Persona {
         totalPersonas++;
     }
     
-    long getCedula() {
+    long getcedula() {
         return cedula;
     }
 
     String getNombre() {
-        return nombre
+        return nombre;
     }
 
     void setNombre(String nombre) {
