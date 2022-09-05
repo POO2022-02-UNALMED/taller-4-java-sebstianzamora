@@ -39,11 +39,11 @@ public class Persona {
         totalPersonas++;
     }
     
-    long getcedula() {
+    long getCedula() {
         return cedula;
     }
 
-    String getnombre() {
+    String getNombre() {
         return nombre;
     }
 
